@@ -1,4 +1,3 @@
-
 public class Question {
 	String remainingString;
 	String inputString;
@@ -8,7 +7,7 @@ public class Question {
 		remainingString = getRemain();	
 	}
 	
-	public void expr() {
+	public void expr(Add thing) {
 		
 	}
 	
