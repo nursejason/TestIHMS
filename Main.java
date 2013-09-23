@@ -7,6 +7,7 @@ import opennlp.*;
 //FORGET RAISINS, TACOS!
 //ughstillAND MORE ugh
 //Finally working perhaps?
+//VICTORY
 
 /** 
  * Natural Language Processor
