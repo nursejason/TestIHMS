@@ -4,6 +4,7 @@ import java.util.regex.Pattern;
 
 import opennlp.*;
 //Cause raisins
+//FORGET RAISINS, TACOS!
 /** 
  * Natural Language Processor
  * Takes a string and parses key words out of it, until it can 
