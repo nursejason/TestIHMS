@@ -9,6 +9,7 @@ import opennlp.*;
 //Finally working perhaps?
 //VICTORY
 //Updating for 9/25
+//New 9/25 scheduler
 
 /** 
  * Natural Language Processor
